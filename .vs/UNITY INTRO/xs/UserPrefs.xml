@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{15A190DA-9501-5BAC-F028-09E3A58388F8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/squareController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/squareController.cs" Line="31" Column="85" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UNITY INTRO" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="squareController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2277c20f-c275-4717-8851-cec6e7013c9a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
